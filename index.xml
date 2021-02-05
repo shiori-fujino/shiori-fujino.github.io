@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes</title>
+    <link>shiori-fujino.github.io/</link>
+    <description>Recent content on Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="shiori-fujino.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Medication Journal</title>
+      <link>shiori-fujino.github.io/posts/medication-journal/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>shiori-fujino.github.io/posts/medication-journal/</guid>
+      <description>My first schizo episode was July 2020, and I had to stay in the hospital for more than two weeks.
+It was ok. Fun people around, interesting activities, free meals and snacks, could order uber-eats sometimes, visitors brought me a lot of sweets. The only problem was a single bed, and 90 minutes of limited internet access time.
+I start my antipsychotic drug journey with Olanzapine. It was great. Although I slept 20 hours a day, I was zombie-like while awake, I stopped seeing or hearing things.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>shiori-fujino.github.io/posts/about/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>shiori-fujino.github.io/posts/about/</guid>
+      <description>This notepad is made after many fails of other blog set-ups and many other failures in my life.
+I had a blog that I used to write about sex, relationship and other personal issues. I ran for about 5 years and had to close it because I couldn&amp;rsquo;t handle too much attention. I started it to get attention, and I succeeded it. But it was too much for me.
+Over half a year, I was locked-in psychward twice.</description>
+    </item>
+    
+  </channel>
+</rss>
