@@ -3,7 +3,7 @@ body {
     color: black;
     margin: auto;
     max-width: 50em;
-    line-height: 1.5em;
+    line-height: 1.7em;
 }
 
 #page-title {
@@ -27,7 +27,7 @@ a {
 }
 
 #posts {
-    padding-left: 2em;
+    padding-left: 1em;
 }
 
 .post {
@@ -41,6 +41,7 @@ a {
     padding:10px 0;
 }
 
-ul {
-    padding: 10px 30px;
+ul .post_listing {
+    width: 90%;
+    margin: auto;
 }
