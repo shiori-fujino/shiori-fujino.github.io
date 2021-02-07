@@ -41,7 +41,8 @@ a {
     padding:10px 0;
 }
 
-ul .post_listing {
-    width: 90%;
+ul {
+    width: 100%;
     margin: auto;
+	 padding: 10px;
 }
