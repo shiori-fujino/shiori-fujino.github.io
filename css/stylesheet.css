@@ -2,10 +2,26 @@ body {
     font-family: 'Ubuntu', sans-serif;
     color: black;
     margin: auto;
-    max-width: 50em;
     line-height: 1.7em;
 }
+footer {
+    display:flex;
+    flex-direction: column;
+    width: 100vw;
+}
 
+.footer__copywrite {
+    font-size: 12px;
+    text-align: right;
+    background-color: burlywood;
+    padding: 5px;
+}
+.footer__icons {
+    font-size: 50px;
+    background-color: transparent;
+    padding: 15px 15px;
+    text-align: right;
+}
 #page-title {
     text-align: center;
 }
@@ -26,9 +42,6 @@ a {
     display: inline-block;
 }
 
-
-#posts {
-}
 #content {
     padding: 20px 10px;
     display: flex;
