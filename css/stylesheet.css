@@ -22,19 +22,20 @@ footer {
     padding: 15px 15px;
     text-align: right;
 }
-#page-title {
+.page-title {
     text-align: center;
 }
 
-#page-title h1 a, .post a {
+.page-title h1 a, .post a {
     color: black;
 }
 
 a {
     text-decoration: none;
+    color: red;
 }
 
-#page-title a:hover, .post a:hover {
+.page-title a:hover, .post a:hover {
     text-decoration: underline;
 }
 
@@ -42,7 +43,7 @@ a {
     display: inline-block;
 }
 
-#content {
+.content {
     padding: 20px 10px;
     display: flex;
     flex-direction: column;
