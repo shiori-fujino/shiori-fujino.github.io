@@ -250,12 +250,17 @@ footer > .footer-content > .footer-content-column > .hamster {
     color: #fff;
     text-decoration: none;
 }
-
-
-
-
-
-
+.index__image > img {
+    width: 300px;
+    height: auto;
+    position: absolute;
+    top: 5%;
+    right: 30%;
+    transform: rotate(-5deg);
+}
+nav {
+    z-index: -2;
+}
 
 /* Media Query For different screens */
 @media (min-width:320px) and (max-width:479px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
@@ -266,8 +271,12 @@ footer > .footer-content > .footer-content-column > .hamster {
     padding: 30px 15px 850px;
     position: relative;
   }
+  .index__image > img {
+    display: none;
 }
-@media (min-width:480px) and (max-width:599px)  { /* smartphones, Android phones, landscape iPhone */
+}
+@media (min-width:480px) and (max-width:599px)  { 
+    /* smartphones, Android phones, landscape iPhone */
   .footer-content {
     margin-left: auto;
     margin-right: auto;
@@ -276,7 +285,8 @@ footer > .footer-content > .footer-content-column > .hamster {
     position: relative;
   }
 }
-@media (min-width:600px) and (max-width: 800px)  { /* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */
+@media (min-width:600px) and (max-width: 800px)  { 
+    /* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */
   .footer-content {
     margin-left: auto;
     margin-right: auto;
@@ -284,19 +294,12 @@ footer > .footer-content > .footer-content-column > .hamster {
     padding: 40px 15px 850px;
     position: relative;
   }
+  .index__image > img {
+    position: absolute;
+    top: 1%;
+    left: 50%;
+  }
 }
-@media (min-width:801px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */
-
-}
-@media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */
-
-}
-@media (min-width:1281px) { /* hi-res laptops and desktops */
-
-}
-
-
-
 
 @media (min-width: 760px) {
   .footer-content {
@@ -306,20 +309,14 @@ footer > .footer-content > .footer-content-column > .hamster {
       padding: 20px 15px 300px;
       position: relative;
   }
-
   .footer-wave-svg {
       height: 50px;
   }
-
   .footer-content-column {
       width: 24.99%;
   }
 }
-@media (min-width: 568px) {
-  /* .footer-content-column {
-      width: 49.99%;
-  } */
-}
+
 a {
     text-decoration: none;
     color: rgb(0, 0, 0);
@@ -332,7 +329,6 @@ a {
 .date-time-title {
     display: inline-block;
 }
-
 section {
     padding: 20px 20px;
     margin: auto;
@@ -341,7 +337,6 @@ section {
 .one__post {
  font-size: 15px;
 }
-
 .blog__post {
     width:90%;
     margin:auto;
