@@ -1,27 +1,56 @@
-var brd = document.createElement("DIV");
-document.body.insertBefore(brd, document.getElementById("sitetitle"));
-const duration = 3000;
-const speed = 0.5;
-const cursorXOffset = 0;
-const cursorYOffset = -5;
-var hearts = [];
-function generateHeart(x, y, xBound, xStart, scale)
-{
-   var heart = document.createElement("DIV");
-   heart.setAttribute('class', 'heart');
-   brd.appendChild(heart);
-   heart.time = duration;
-   heart.x = x;
-   heart.y = y;
-   heart.bound = xBound;
-   heart.direction = xStart;
-   heart.style.left = heart.x + "px";
-   heart.style.top = heart.y + "px";
-   heart.scale = scale;
-   heart.style.transform = "scale(" + scale + "," + scale + ")";
-   if(hearts == null)
-    hearts = [];
-   hearts.push(heart);
-   return heart;
-}
-generateHeart(250, 250, null, null, 1);
+var TxtType = function(el, toRotate, period) {
+   this.toRotate = toRotate;
+   this.el = el;
+   this.loopNum = 0;
+   this.period = parseInt(period, 10) || 2000;
+   this.txt = '';
+   this.tick();
+   this.isDeleting = false;
+};
+
+TxtType.prototype.tick = function() {
+   var i = this.loopNum % this.toRotate.length;
+   var fullTxt = this.toRotate[i];
+
+   if (this.isDeleting) {
+   this.txt = fullTxt.substring(0, this.txt.length - 1);
+   } else {
+   this.txt = fullTxt.substring(0, this.txt.length + 1);
+   }
+
+   this.el.innerHTML = '<span class="wrap">'+this.txt+'</span>';
+
+   var that = this;
+   var delta = 200 - Math.random() * 100;
+
+   if (this.isDeleting) { delta /= 2; }
+
+   if (!this.isDeleting && this.txt === fullTxt) {
+   delta = this.period;
+   this.isDeleting = true;
+   } else if (this.isDeleting && this.txt === '') {
+   this.isDeleting = false;
+   this.loopNum++;
+   delta = 500;
+   }
+
+   setTimeout(function() {
+   that.tick();
+   }, delta);
+};
+
+window.onload = function() {
+   var elements = document.getElementsByClassName('typewrite');
+   for (var i=0; i<elements.length; i++) {
+       var toRotate = elements[i].getAttribute('data-type');
+       var period = elements[i].getAttribute('data-period');
+       if (toRotate) {
+         new TxtType(elements[i], JSON.parse(toRotate), period);
+       }
+   }
+   // INJECT CSS
+   var css = document.createElement("style");
+   css.type = "text/css";
+   css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #fff}";
+   document.body.appendChild(css);
+};
