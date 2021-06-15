@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on kimchiest.com</title>
-    <link>https://shiori-fujino.github.io/categories/</link>
+    <link>https://kimchiest.com/categories/</link>
     <description>Recent content in Categories on kimchiest.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shiori-fujino.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://kimchiest.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>personal</title>
-      <link>https://shiori-fujino.github.io/categories/personal/</link>
+      <link>https://kimchiest.com/categories/personal/</link>
       <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shiori-fujino.github.io/categories/personal/</guid>
+      <guid>https://kimchiest.com/categories/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>work</title>
-      <link>https://shiori-fujino.github.io/categories/work/</link>
+      <link>https://kimchiest.com/categories/work/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shiori-fujino.github.io/categories/work/</guid>
+      <guid>https://kimchiest.com/categories/work/</guid>
       <description></description>
     </item>
     
