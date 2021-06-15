@@ -3,81 +3,133 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shiori-fujino.github.io/</loc>
-    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <loc>http://example.org/tags/cat/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiori-fujino.github.io/posts/</loc>
-    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiori-fujino.github.io/posts/rainydays/</loc>
-    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <loc>http://example.org/tags/croissant/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiori-fujino.github.io/posts/meweekly/</loc>
-    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+    <loc>http://example.org/tags/fangs/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiori-fujino.github.io/posts/notitle/</loc>
-    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
+    <loc>http://example.org/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiori-fujino.github.io/posts/car/</loc>
-    <lastmod>2021-02-25T00:00:00+00:00</lastmod>
+    <loc>http://example.org/tags/nosedive/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiori-fujino.github.io/posts/bikemangotrainpi/</loc>
-    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+    <loc>http://example.org/tags/onewheel/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiori-fujino.github.io/posts/twentyhours/</loc>
-    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+    <loc>http://example.org/categories/personal/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiori-fujino.github.io/posts/surviving/</loc>
-    <lastmod>2021-02-13T00:00:00+00:00</lastmod>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiori-fujino.github.io/posts/whytooksolong/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+    <loc>http://example.org/posts/smallthoughts/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiori-fujino.github.io/posts/medicationjournal/</loc>
-    <lastmod>2021-02-04T00:00:00+00:00</lastmod>
+    <loc>http://example.org/tags/soymilk/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiori-fujino.github.io/posts/marketingtrend/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiori-fujino.github.io/posts/wearehiring/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>http://example.org/tags/brothel/</loc>
+    <lastmod>2021-06-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiori-fujino.github.io/posts/about/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>http://example.org/posts/dirtytricks/</loc>
+    <lastmod>2021-06-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiori-fujino.github.io/categories/</loc>
+    <loc>http://example.org/categories/work/</loc>
+    <lastmod>2021-06-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiori-fujino.github.io/tags/</loc>
+    <loc>http://example.org/tags/bengong/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/escort/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/korean/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/machi-machi/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/private/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/rhodes/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/ugly/</loc>
+    <lastmod>2021-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/nintendo/</loc>
+    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/nintendosexchair/</loc>
+    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/birthdayblogging/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/writing/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

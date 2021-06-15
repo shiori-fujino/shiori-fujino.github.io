@@ -1,9 +1,137 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Notes</title>
-    <link>https://shiori-fujino.github.io/tags/</link>
-    <description>Recent content in Tags on Notes</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://shiori-fujino.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags on kimchiest.com</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on kimchiest.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cat</title>
+      <link>http://example.org/tags/cat/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/cat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>croissant</title>
+      <link>http://example.org/tags/croissant/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/croissant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fangs</title>
+      <link>http://example.org/tags/fangs/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/fangs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nosedive</title>
+      <link>http://example.org/tags/nosedive/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/nosedive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>onewheel</title>
+      <link>http://example.org/tags/onewheel/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/onewheel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soymilk</title>
+      <link>http://example.org/tags/soymilk/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/soymilk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brothel</title>
+      <link>http://example.org/tags/brothel/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/brothel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bengong</title>
+      <link>http://example.org/tags/bengong/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/bengong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>escort</title>
+      <link>http://example.org/tags/escort/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/escort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>korean</title>
+      <link>http://example.org/tags/korean/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/korean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machi-machi</title>
+      <link>http://example.org/tags/machi-machi/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/machi-machi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>private</title>
+      <link>http://example.org/tags/private/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/private/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nintendo</title>
+      <link>http://example.org/tags/nintendo/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/nintendo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>http://example.org/tags/writing/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/writing/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

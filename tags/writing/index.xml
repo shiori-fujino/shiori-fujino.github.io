@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>writing on kimchiest.com</title>
+    <link>http://example.org/tags/writing/</link>
+    <description>Recent content in writing on kimchiest.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Birthday, Blogging</title>
+      <link>http://example.org/posts/birthdayblogging/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/birthdayblogging/</guid>
+      <description>It has been a year after I refused to write. People still mention about my blog, even people who never knew about it started asking me, &amp;ldquo;I heard that you had a blog before&amp;hellip;&amp;rdquo;
+Blogging was fun, The funniest part was that it makes me feel like I&amp;rsquo;m worthwhile. It is fascinating that someone spends their own time to read my stories. Some of them even try to interact with me because they find me interesting from what I write.</description>
+    </item>
+    
+  </channel>
+</rss>
