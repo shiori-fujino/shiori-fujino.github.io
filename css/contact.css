@@ -4,6 +4,9 @@
   box-sizing: border-box;
 }
 
+body {
+  padding: 20px 15%;
+}
 form header {
   margin: 0 0 20px 0; 
 }

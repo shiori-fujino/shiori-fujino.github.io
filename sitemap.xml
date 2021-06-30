@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kimchiest.com/categories/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kimchiest.com/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kimchiest.com/posts/mirror/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kimchiest.com/tags/photo/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kimchiest.com/posts/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kimchiest.com/tags/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kimchiest.com/categories/work/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kimchiest.com/posts/emergency/</loc>
     <lastmod>2021-06-26T00:00:00+00:00</lastmod>
   </url>
@@ -13,17 +48,7 @@
   </url>
   
   <url>
-    <loc>https://kimchiest.com/categories/</loc>
-    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kimchiest.com/tags/contact/</loc>
-    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kimchiest.com/</loc>
     <lastmod>2021-06-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -34,21 +59,6 @@
   
   <url>
     <loc>https://kimchiest.com/tags/onewheel/</loc>
-    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kimchiest.com/posts/</loc>
-    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kimchiest.com/tags/</loc>
-    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kimchiest.com/categories/work/</loc>
     <lastmod>2021-06-26T00:00:00+00:00</lastmod>
   </url>
   
