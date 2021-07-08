@@ -6,7 +6,16 @@
     <description>Recent content on hi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://kimchiest.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://kimchiest.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lockdown Project</title>
+      <link>https://kimchiest.com/posts/lockdown/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kimchiest.com/posts/lockdown/</guid>
+      <description>girl finder   @import url(&#39;https://fonts.googleapis.com/css2?family=Open+Sans&amp;display=swap&#39;); html { font-family: &#39;Open Sans&#39;, sans-serif; } .quiz-slider { margin-top: 50px; max-width: 100%; } h2, h3, p { text-align: center; } input[type=&#39;range&#39;] { -webkit-appearance: none; width: 100%; margin-top: 50px; } input[type=&#39;text&#39;] { width: 30%; } input[type=&#39;range&#39;]::-webkit-slider-runnable-track { -webkit-appearance: none; box-sizing: border-box; height: 1px; width: 100%; border: 3px solid #c4cdd5; } input[type=&#39;range&#39;]::-webkit-slider-thumb { -webkit-appearance: none; margin-top: -13px; height: 25px; width: 25px; border-radius: 50px; background-color: #000000; box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.</description>
+    </item>
+    
     <item>
       <title>Leaving Mongol Town</title>
       <link>https://kimchiest.com/posts/mongol/</link>
